@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Geologica:wght@700&family=Nunito:wght@300&display=swap');
+body {
+  font-family: 'Nunito', sans-serif;
+  background-image: url("https://media.discordapp.net/attachments/937603111705518102/1114929609125933128/Desktop_-_1.png?width=719&height=404");
+  background-size: 100%;
+} 
+
+h1 {
+  margin-top: 100px;
+  margin-left: 150px;
+  font-size: 100px;
+}
+
+div {
+  width: 70%;
+}
+
+p {
+  margin-left: 150px;
+  font-size: 30px;
+}
+
+/* Navbar styles */
+.navbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  border-bottom: 1px solid #ccc; 
+  width: 100%;
+  border-radius: 10px;
+  border-color: #333;
+}
+
+.navbar li {
+  float: left;
+}
+.navbar .chaos {
+  float: right;
+}
+
+.navbar li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 20px 24px; /* Adjust the top and bottom padding */
+  text-decoration: none;
+  font-size: 18px; /* Adjust the font size */
+}
+
+.navbar .chaos .chaos2 {
+  background-color: #333;
+}
+
+.navbar li a:hover {
+  background-color: #111;
+}
