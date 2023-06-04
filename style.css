@@ -11,13 +11,21 @@ h1 {
   font-size: 100px;
 }
 
+b {
+  color: red;
+}
+
 div {
-  width: 70%;
+  width: 75%;
 }
 
 p {
+  position: relative;
+  bottom: 50px;
+  margin-top: 10px;
   margin-left: 150px;
   font-size: 30px;
+  width: 75%;
 }
 
 /* Navbar styles */
