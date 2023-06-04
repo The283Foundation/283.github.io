@@ -92,3 +92,9 @@ embed {
 .button:hover {
   background-color: #111;
 }
+
+.email {
+  position:absolute;
+  bottom: 150px;
+  left: 325px;
+}
