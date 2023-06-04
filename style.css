@@ -98,3 +98,24 @@ embed {
   bottom: 150px;
   left: 325px;
 }
+
+.nikoPara {
+  position: absolute;
+  font-size: 25px;
+  bottom: 150px;
+  left: 30px;
+}
+
+.oliwierPara {
+  position: absolute;
+  font-size: 25px;
+  bottom: 80px;
+  left: 30px;
+}
+
+.folderPara {
+  position: absolute;
+  font-size: 25px;
+  bottom: 10px;
+  left: 30px;
+}
