@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Geologica:wght@700&family=Nunito:wght@300&display=swap');
 body {
   font-family: 'Nunito', sans-serif;
-  background-image: url("https://media.discordapp.net/attachments/937603111705518102/1114929609125933128/Desktop_-_1.png?width=719&height=404");
+  background-image: linear-gradient(to right, #00c3dd , rgb(218, 34, 255));
   background-size: 100%;
 } 
 
